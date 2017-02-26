@@ -4,6 +4,7 @@ import { MyApp } from './app.component';
 import { AboutPage } from '../pages/about/about';
 import { ContactPage } from '../pages/contact/contact';
 import { HomePage } from '../pages/home/home';
+import {EmploymentPage} from '../pages/employment/employment'
 import { TabsPage } from '../pages/tabs/tabs';
 
 @NgModule({
@@ -20,6 +21,7 @@ import { TabsPage } from '../pages/tabs/tabs';
   bootstrap: [IonicApp],
   entryComponents: [
     MyApp,
+    EmploymentPage,
     AboutPage,
     ContactPage,
     HomePage,
