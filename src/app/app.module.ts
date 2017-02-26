@@ -16,6 +16,7 @@ import { LearningEnglish } from '../pages/learning-english/learning-english';
     ContactPage,
     HomePage,
     TabsPage,
+    EmploymentPage,
     LearningEnglish
   ],
   imports: [
