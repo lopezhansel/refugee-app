@@ -7,12 +7,32 @@ page-home {
     background-image: url("../assets/img/hands.jpg");
     // background-image: url(https://static.wixstatic.com/media/99ec98fdb81945c29c25a3ad6c5606b1.jpg/v1/fill/w_1920,h_1280,al_c,q_85/99ec98fdb81945c29c25a3ad6c5606b1.webp);
     // background-image: url("https://static.wixstatic.com/media/84770f_6b2826cba0eb438699b1746f1782b95c~mv2.jpg/v1/fill/w_1920,h_1036,al_c,q_85/84770f_6b2826cba0eb438699b1746f1782b95c~mv2.webp");
+  }
+
+  .home-jumbo{
+      text-align: center;
+      color: white;
+      padding: 10px;
+      font-size: 28px;
+      text-transform: uppercase;
 
   }
   .home-start-container {
     text-align: center;
   }
   .home-start-button {
+    background-color: transparent;
+    border: solid rgba(63, 67, 89, 1) 2px;
+    cursor: pointer !important;
+    font-weight: 700;
+    text-transform: capitalize;
+    text-align: center;
+    color: white;
+    padding: 5px;
+    &:hover{
+        background: rgba(63, 67, 89, 1)
+    }
+
     // background: red;
   }
 }
