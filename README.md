@@ -19,34 +19,18 @@ Helping volunteers connect with refugees.
 
 ## Navigation
 
-- Home
-- Latest News
-- ~~Events Calendar~~
-- About Us
-- Volunteer
-  - Opportunities
-  - Creating Bins/Baskets
-  - Donations
-  - RSVP
-- Internships
-- Cultural Mentoring and Exchange
-  - Our Program
-  - Sign Up and Apply
-  - RSVP
-  - Log Hours
-  - Communication Protocol
 - Resources
   - Learning English
   - Financial Literacy
   - Practical Literacy
   - Employment
   - Housing Orientation
-  - God Grew Tired of Us Video
+  - ~~God Grew Tired of Us Video~~
   - Exploring the Muslim Faith
   - Refugee Demographic Info
-  - Free/Cheap Items
-  - Our Facebook Page
-  - Our Twitter Handle
+  - ~~Free/Cheap Items~~
+  - ~~Our Facebook Page~~
+  - ~~Our Twitter Handle~~
 # Other Components
 - Components To build
   - Footer (contact us) can be a FAB
