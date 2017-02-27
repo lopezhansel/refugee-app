@@ -7,32 +7,24 @@
 .rc-button{}
 a.rc-link{}
 
-
-
-
-
 @import url('https://fonts.googleapis.com/css?family=Oxygen:700');
-
 
 .refugee-our-class {
  font-family: 'Oxygen', sans-serif;
+ font-size: 16px;
 
-  h1 {
-    font: bold 114px/1.4em avenir-lt-w01_85-heavy1475544, sans-serif;
-    font-weight: 900;
+  h1, h2, h3, h4, h5, h6 {
     color: #3F4359;
   }
-  h2 {
-    font: bold 84px/1.4em avenir-lt-w01_85-heavy1475544, sans-serif;
-    color: #3F4359;
-  }
+
   p {
-    font-size: 10px;
     font-family: Arial, Helvetica, sans-serif;
     color: #CABAD2;
+    line-height: 2rem;
   }
+
   .main {
     margin: 10px;
-    text-align: center;
+    text-align: left;
   }
 }
