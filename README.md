@@ -2,6 +2,20 @@
 
 Helping volunteers connect with refugees.
 
+# Todo
+
+- (dave) Finish Home Component
+  - (dave) add click handlers (angular) to take user into other page
+- (dave) Work on  .refugee-our-class (universal styles) 
+- (hansel) Finish html content from Resources
+- (hansel) Implement menu system, get rid of menu bar
+- assets
+  - (dave) get all images
+  - (hansel) get some PDFs, not all
+    - (dave) let hansel know which PDFs
+  - (hansel) logo make into svg
+  
+
 ## Ionic commands
 
 - To start `npm i`
