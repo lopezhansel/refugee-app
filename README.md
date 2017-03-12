@@ -34,14 +34,19 @@ Helping volunteers connect with refugees.
 ## Navigation
 
 - Resources
+Help Category
   - Learning English
   - Financial Literacy
   - Practical Literacy
   - Employment
   - Housing Orientation
+  
+Learn Category
   - ~~God Grew Tired of Us Video~~
   - Exploring the Muslim Faith
   - Refugee Demographic Info
+  
+Connect Category  
   - ~~Free/Cheap Items~~
   - ~~Our Facebook Page~~
   - ~~Our Twitter Handle~~

@@ -13,18 +13,42 @@ a.rc-link{}
  font-family: 'Oxygen', sans-serif;
  font-size: 16px;
 
-  h1, h2, h3, h4, h5, h6 {
-    color: #3F4359;
+  h1, h3, h4, h5, h6 {
+    //color: #3F4359;
+    color: deeppink;
+    font-weight:bold;
   }
 
-  p {
-    font-family: Arial, Helvetica, sans-serif;
-    color: #CABAD2;
-    line-height: 2rem;
+  h2 {
+    color: white;
+    -webkit-text-fill-color: white; /* Will override color (regardless of order) */
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: white;
+    font-size: 20px;
+    text-align: center;
   }
+
 
   .main {
     margin: 10px;
     text-align: left;
   }
+}
+
+p {
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  font-size: 20px;
+  line-height: 2rem;
+  font-weight: bold;
+}
+
+
+.title {
+  font-size: 35px;
+  font-weight: bold;
+}
+
+.tab {
+  color: deeppink;
 }
